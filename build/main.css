@@ -64,9 +64,21 @@
     margin: 5px;
     margin: 10px;
     background-color: #dfe0ff; }
+  .styles__person__head__1k5AC {
+    color: red; }
+  .styles__person__body__2TrGI {
+    display: none; }
+  .styles__person--expand__32E-3 .styles__person__body__2TrGI {
+    display: block; }
   @media (max-width: 500px) {
     .styles__person__PvEe1 {
       max-width: 100%; } }
 
 body {
   font-family: 'Comfortaa', cursive; }
+
+.styles__flex__ai5_Y {
+  display: flex;
+  flex-wrap: wrap; }
+  .styles__flex__column__Vcx_T {
+    flex-direction: column; }
